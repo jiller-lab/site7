@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+.wall {
+    width: 1920px;
+    height: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tf2 {
+    width: 500px;
+    height: 500px;
+}
+
+footer {
+    background-color: #000000;
+    padding: 10px;
+}
+
+p {
+    color: white;
+}
